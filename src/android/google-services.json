@@ -1,0 +1,42 @@
+{
+    "project_info": {
+      "project_number": "459575507884",
+      "firebase_url": "https://oakamlive.firebaseio.com",
+      "project_id": "oakamlive",
+      "storage_bucket": "oakamlive.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:459575507884:android:23ee54e4d2ebb22a",
+          "android_client_info": {
+            "package_name": "com.oakam.app.live"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "459575507884-srs1dkc4gdbe0856gl37j9slsjah15db.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAkX4hZ76UIEge9dRPVMYq_BSW68Z6Ckq0"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": 1
+          },
+          "appinvite_service": {
+            "status": 1,
+            "other_platform_oauth_client": []
+          },
+          "ads_service": {
+            "status": 2
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
